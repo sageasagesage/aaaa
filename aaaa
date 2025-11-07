@@ -259,4 +259,4 @@ local function GenerateReservedServerCode(placeId)
 end
 
 local accessCode, _ = GenerateReservedServerCode(game.PlaceId)
-game.RobloxReplicatedStorage.ContactListIrisInviteTeleport:FireServer(game.PlaceId, "", accessCode)
+game.RobloxReplicatedStorage.ContactListIrisInviteTeleport:FireServer(game.PlaceId, "5571328985", accessCode)
